@@ -19,4 +19,7 @@ img:hover {
   overflow-x: hidden;
   background-color: #f7f7f7;
 }
+
+.art ul{
+  list-style-type: none;
 }
