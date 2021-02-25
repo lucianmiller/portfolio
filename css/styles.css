@@ -3,6 +3,7 @@ img {
   border-radius: 4px;
   padding: 5px;
   width: 150px;
+  
 }
 
 img:hover {
@@ -10,16 +11,52 @@ img:hover {
 }
 
 .art {
-  height: 210%;
+  height: 100%;
   width: 163%px;
   position: absolute;
   z-index: 1;
   top: 0;
   right: 0;
   overflow-x: hidden;
-  background-color: #f7f7f7;
+  background-color: #bfd8e3;
+  ;
 }
 
 .art ul{
   list-style-type: none;
+}
+
+.a {
+  margin: 12px;
+  border: 2px solid #ba99c9;
+  padding: 4px;
+  background-color: #99c9c9;
+}
+
+.b {
+  margin: 12px;
+  border: 2px solid #bdbfbb;
+  padding: 4px;
+  background-color: #786e07;
+}
+
+.c {
+  margin: 12px;
+  border: 2px solid #000000;
+  padding: 4px;
+  background-color: #780404;
+}
+
+.d {
+  margin: 12px;
+  border: 2px solid #095454;
+  padding: 4px;
+  background-color: #7dd1b8;
+}
+
+.e {
+  margin: 12px;
+  border: 2px solid #165409;
+  padding: 4px;
+  background-color: #47294d;
 }
