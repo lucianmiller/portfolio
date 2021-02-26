@@ -11,6 +11,7 @@ img:hover {
 }
 
 .art {
+  float:left;
   height: 100%;
   width: 163%px;
   position: absolute;
