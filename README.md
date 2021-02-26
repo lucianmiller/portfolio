@@ -1,7 +1,7 @@
 # Programming Portfolio
 
 #### Git, HTML and CSS Review project for Epicodus, 2/25/2021
-#### By Lucain Miller
+#### By Lucian Miller
 
 ## Description
 
